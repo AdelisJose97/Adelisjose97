@@ -5,7 +5,7 @@
 const adelis = {
   pronouns: "he" | "hin",
   code: [Javascript, HTML, CSS],
-  tools: [Vue, Vuex, VueRouter, React, Node, Firebase, MongoDB]
+  tools: [Vue, Vuex, React, Node, Firebase, MongoDB]
 }
 ```
 <!--
