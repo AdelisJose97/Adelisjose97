@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Adelis 👋🏾 👩🏾‍💻
 
+ I am a frontend developer passionate about web development, and eager to learn more and more. 🙌
+```js
+const adelis = {
+  pronouns: "he" | "hin",
+  code: [Javascript, HTML, CSS, Vue, Python, Java],
+  tools: [Vue, Vuex, VueRouter, React, Node, Firebase, MongoDB]
+}
+```
 <!--
 **AdelisJose97/Adelisjose97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
