@@ -1,6 +1,6 @@
 ### Hi, I'm Adelis 👋🏾 👩🏾‍💻
 
- I am a frontend developer passionate about web development, and eager to learn more and more. 🙌
+ I am a Full Stack Developer with more than 5 years of experience. 🙌
 ```js
 const adelis = {
   pronouns: "he" | "hin",
